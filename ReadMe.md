@@ -71,6 +71,7 @@
 20. [BOJ 전화번호 목록](https://www.acmicpc.net/problem/5052)
 21. [BOJ 회사 문화1](https://www.acmicpc.net/problem/14267)
 22. [BOJ 트리 색칠하기](https://www.acmicpc.net/problem/24230)
+23. [BOJ LCA](https://www.acmicpc.net/problem/11437)
 
 ### ➿ 완전 탐색과 백트랙킹
 1. [BOJ 감시](https://www.acmicpc.net/problem/15683)
@@ -95,3 +96,10 @@
 6. [BOJ 연료가 부족해](https://www.acmicpc.net/problem/20293)
 7. [BOJ 누적거리](https://www.acmicpc.net/problem/22345)
 8. [BOJ 두 수의 합](https://www.acmicpc.net/problem/9024)
+
+
+### 발표 수업용
+1. [2023 KAKAO BLIND RECRUITMENT 이모티콘 할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)
+2. [프로그래머스 디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)
+3. [2022 KAKAO BLIND RECRUITMENT 양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)
+4. [2017 카카오코드 예선 카카오프렌즈 컬러링북](https://school.programmers.co.kr/learn/courses/30/lessons/1829)
